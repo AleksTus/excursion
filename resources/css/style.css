@@ -1,0 +1,42 @@
+body {
+  background-color: #101010;
+  text-align: center;
+    }
+
+h1 {
+  font-family: Verdana;
+  font-size: 50pt;
+  color: white;
+}
+
+h2 {
+  font-family: Verdana;
+  font-size: 43pt;
+  font-weight: 300;
+  color: white;
+}
+
+p {
+  font-family: Verdana;
+  font-size: 21pt;
+  color: grey;
+}
+
+.mainlink
+a {
+font-family: Verdana;
+font-size: 16pt;
+color: Aquamarine;
+}
+
+
+
+.vidosik, .cellico {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.copy {
+  text-align: right;
+  color: grey;
+}
